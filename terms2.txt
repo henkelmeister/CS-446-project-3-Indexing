@@ -1,0 +1,11 @@
+lear:0.0
+lear:0.2
+lear:0.3
+lear:1.3
+lear:2.3
+lear:2.5
+lear:2.6
+lear:3.1
+lear:3.5
+lear:4.0
+lear:4.2
